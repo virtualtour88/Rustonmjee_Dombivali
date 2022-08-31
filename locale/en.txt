@@ -1,0 +1,38 @@
+#: locale=en
+
+## Action
+
+### URL
+WebFrame_895E0BFD_BA55_F7CB_41C0_1E5E0085933A.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771.7185583374153!2d72.8439527!3d19.0321195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7ced3bc4258cd%3A0x25e0e2601a8adea6!2sJariwala%20Chawl%2C%20Om%20Galaxy%2C%20VSNL%20Colony%2C%20Mahim%2C%20Mumbai%2C%20Maharashtra%20400016!5e0!3m2!1sen!2sin!4v1659372649056!5m2!1sen!2sin
+LinkBehaviour_B57364F8_BA54_31C9_41D1_726C355864DE.source = https://www.rustomjee.com/
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_F8401FA2_F47D_6142_41CA_69AA9EAB8393.url = media/map_F904B4B0_F475_DDC5_41D7_DCCE63A3E38D_en_0.png
+imlevel_F8406FA3_F47D_6142_41E9_7275B0838F15.url = media/map_F904B4B0_F475_DDC5_41D7_DCCE63A3E38D_en_1.png
+imlevel_F8404FA3_F47D_6142_41CE_96CB7DFE8C26.url = media/map_F904B4B0_F475_DDC5_41D7_DCCE63A3E38D_en_2.png
+
+### Title
+panorama_F83D7FA7_F421_20A0_41E7_6535BD12DC0D.label = 125 mtrs
+panorama_EFB39E13_E522_0C20_41DF_8D206E0AFB04.label = 24 mtrs
+panorama_EFAEC748_E522_1C20_41E1_76E182784AE2.label = 45 mtrs
+panorama_EFAEF941_E522_F420_41C7_1EC8C64CEC57.label = 66 mtrs
+panorama_EEBC8F7B_E522_0CE0_41EB_2A9161B1F742.label = 87 mtrs
+panorama_EFAED279_E522_34E0_41D8_BD828DC28DCE.label = Night View - 125 mtrs
+map_F904B4B0_F475_DDC5_41D7_DCCE63A3E38D.label = toppng.com-compass-png-980x958
+
+## Skin
+
+### Image
+Image_92DA1BC5_BBEC_103B_41BF_A2E21D15D704.url = skin/Image_92DA1BC5_BBEC_103B_41BF_A2E21D15D704_en.png
+Image_B4E416FF_BA74_F1C7_41E1_BCC7D25C20E0.url = skin/Image_B4E416FF_BA74_F1C7_41E1_BCC7D25C20E0_en.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Rustomjee_Dombivali
